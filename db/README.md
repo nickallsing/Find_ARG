@@ -1,0 +1,1 @@
+This folder is where BLAST ARG database will be created.

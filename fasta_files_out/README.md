@@ -1,0 +1,1 @@
+This folder is where the fasta files converted from fastq will be output.

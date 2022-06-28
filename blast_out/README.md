@@ -1,0 +1,1 @@
+This folder is where the BLAST results will be output along with a list of hits per sample and a table with the number of hits per ARG per sample.

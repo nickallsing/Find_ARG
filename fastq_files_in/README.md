@@ -1,0 +1,1 @@
+This is where input fastq files should be located.
