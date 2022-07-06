@@ -6,7 +6,7 @@ Created on Wed Jul  6 10:14:25 2022
 @author: nallsing
 """
 DESC = ("""This function combines multiple csv blast outputs into a hits csv and list csv. 
-        It also outputs individual files for each sample with correct titles Please place in
+        It also outputs individual files for each sample with correct titles. Please place in
         same directory as files.
         """)
 import argparse
